@@ -1,1 +1,1 @@
-console.log("chevalo");
+console.log(document.cookie);

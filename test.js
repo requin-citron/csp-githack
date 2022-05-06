@@ -1,1 +1,1 @@
-window.location="https://google.fr";
+alert(0);
